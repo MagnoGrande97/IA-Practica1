@@ -1,2 +1,2 @@
-# IA-Practicas
+# IA-Practicas - Magno Grande
 IA - PRACTICAS
