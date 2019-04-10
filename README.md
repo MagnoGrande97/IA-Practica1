@@ -1,2 +1,2 @@
-# IA-Practica1
+# IA-Practicas
 IA - PRACTICAS
